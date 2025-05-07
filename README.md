@@ -1,6 +1,6 @@
 # AyED
 Nombre: Alejandro
-Apellio: Andrade
+Apellido: Andrade
 Comisión: K1202
 g++.exe (Rev3, Built by MSYS2 project) 14.2.0
 Copyright (C) 2024 Free Software Foundation, Inc.
